@@ -152,7 +152,7 @@ __Kelas : T1.21.A.2__
 ```
 
 ### SCREEN SHOT HOME
-![Gambar1](screen shot hasil yah/HOME.png)
+![Gambar1](screen shot hasil yah/HOME.PNG)
 
 
 ### Penjelasan
@@ -317,7 +317,7 @@ Output Menambahkan Data
 
 ```
 
-![Gambar3](screen shot hasil yah/ABOUT.png)
+![Gambar3](screen shot hasil yah/ABOUT.PNG)
 
 - Menambahkan Tampilan Kontak
 
